@@ -1,1 +1,1 @@
-# DeepLearning : CUSTOM IMAGE RECOGNITION 
+# DeepLearning Lab : CUSTOM IMAGE RECOGNITION 
